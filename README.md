@@ -1,10 +1,10 @@
 # MyHashMap
 
-MyHashMap project that was implemented by creating entry, AbsHashMap, MyHashMap classes using seperate chaining method. 
+MyHashMap project was implemented by creating entry, AbsHashMap, MyHashMap classes using seperate chaining method. 
 
 The elements were inserted based on hashCode()%CAPACITY, where the hashCode() returns the key itself.
 
-The important used methods were:
+The created methods are:
 
 size(): Returns the numbers of the map's entries.
       
